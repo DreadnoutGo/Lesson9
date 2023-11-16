@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\likho\\OneDrive\\Рабочий стол\\Lesson9\\task1\\task1.csproj",
+      "projectUniqueName": "C:\\Users\\likho\\OneDrive\\Рабочий стол\\Practical task\\task1\\task1.csproj",
       "projectName": "task1",
-      "projectPath": "C:\\Users\\likho\\OneDrive\\Рабочий стол\\Lesson9\\task1\\task1.csproj",
+      "projectPath": "C:\\Users\\likho\\OneDrive\\Рабочий стол\\Practical task\\task1\\task1.csproj",
       "packagesPath": "C:\\Users\\likho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\likho\\OneDrive\\Рабочий стол\\Lesson9\\task1\\obj\\",
+      "outputPath": "C:\\Users\\likho\\OneDrive\\Рабочий стол\\Practical task\\task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\likho\\AppData\\Roaming\\NuGet\\NuGet.Config"
